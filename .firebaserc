@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "covid19-tracker-42de9"
-  }
+    "default": "covid19-tracker-42de9",
+    "staging": "covid-19-worlodometer"
+  },
+  "targets": {},
+  "etags": {}
 }
